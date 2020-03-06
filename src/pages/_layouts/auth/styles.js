@@ -38,6 +38,13 @@ export const Content = styled.div`
       opacity: 1;
     }
 
+    span {
+      color: #f64c75;
+      font-size: 12px;
+      font-weight: bold;
+      margin-bottom: 3px;
+    }
+
     strong {
       text-transform: uppercase;
       font-size: 14px;
