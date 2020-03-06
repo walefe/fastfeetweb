@@ -46,7 +46,7 @@ export const Content = styled.div`
   }
 
   img {
-    height: 48px;
+    height: 50px;
     width: 250px;
   }
 
